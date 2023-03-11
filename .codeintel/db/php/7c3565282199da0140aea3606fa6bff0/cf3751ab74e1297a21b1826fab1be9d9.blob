@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="console.php" src="/home/ec2-user/environment/cms/routes/console.php"><import line="3" module="Illuminate\Foundation" symbol="Inspiring" /><import line="4" module="Illuminate\Support\Facades" symbol="Artisan" /></scope>

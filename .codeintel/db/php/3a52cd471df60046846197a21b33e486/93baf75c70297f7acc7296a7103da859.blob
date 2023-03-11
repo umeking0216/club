@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="PostImage.php" src="/home/ec2-user/environment/cms/app/Models/PostImage.php"><scope ilk="namespace" line="3" name="App\Models"><import line="5" module="Illuminate\Database\Eloquent\Relations" symbol="Pivot" /><scope classrefs="Pivot" ilk="class" line="7" lineend="10" name="PostImage" /></scope></scope>
